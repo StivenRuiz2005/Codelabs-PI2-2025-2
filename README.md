@@ -6,18 +6,6 @@ Cada uno está organizado en su respectiva carpeta, siguiendo la estructura pedi
 ---
 
 ## 📁 Estructura del repositorio
-codelab1/
-codelab2/
-codelab3/
-codelab4/
-codelab5/
-codelab6/
-codelab7/
-
-
----
-
-## 📘 Descripción de cada codelab
 
 ### 🟢 **codelab1**  
 **CODELAB:** Reconocimiento de voz  
@@ -73,5 +61,3 @@ codelab7/
 - Este repositorio es público para efectos de revisión.
 
 ---
-
-Si necesitas un README más detallado (por codelab, con instrucciones o capturas), te lo hago.
